@@ -5,35 +5,35 @@
 ![IBM](http://i.imgur.com/Qktqnu1.png) INSTRUCTORS
 #### Instructors: Joseph Santarcangelo
 
-Week 1 - Introduction to Data Visualization Tools
-Introduction to Data Visualization
-Introduction to Matplotlib
-Basic Plotting with Matplotlib
-Dataset on Immigration to Canada
-Line Plots
-Lab: Introduction to Matplotlib and Line Plots
-Quiz: Introduction to Data Visualization Tools
-Week 2 - Basic and Specialized Visualization Tools
-Area Plots
-Histograms
-Bar Charts
-Pie Charts
-Box Plots
-Scatter Plots
-Bubble Plots
-Lab: Basic Visualization Tools
-Lab: Specialized Visualization Tools
-Quiz: Basic Visualization Tools
-Quiz: Specialized Visualization Tools
-Week 3 - Advanced Visualizations and Geospatial Data
-Waffle Charts
-Word Clouds
-Seaborn and Regression Plots
-Introduction to Folium and Map Styles
-Maps with Markers
-Choropleth Maps
-Lab: Advanced Visualization Tools
-Lab: Creating Maps and Visualizing Geospatial Data
-Quiz: Advanced Visualization Tools
-Quiz: Visualizing Geospatial Data
-Peer-review Assignment
+Week 1 - Introduction to Data Visualization Tools<br><br>
+Introduction to Data Visualization<br>
+Introduction to Matplotlib<br>
+Basic Plotting with Matplotlib<br>
+Dataset on Immigration to Canada<br>
+Line Plots<br>
+Lab: Introduction to Matplotlib and Line Plots<br>
+Quiz: Introduction to Data Visualization Tools<br><br><br>
+Week 2 - Basic and Specialized Visualization Tools<br><br>
+Area Plots<br>
+Histograms<br>
+Bar Charts<br>
+Pie Charts<br>
+Box Plots<br>
+Scatter Plots<br>
+Bubble Plots<br>
+Lab: Basic Visualization Tools<br>
+Lab: Specialized Visualization Tools<br>
+Quiz: Basic Visualization Tools<br>
+Quiz: Specialized Visualization Tools<br><br><br>
+Week 3 - Advanced Visualizations and Geospatial Data<br><br>
+Waffle Charts<br>
+Word Clouds<br>
+Seaborn and Regression Plots<br>
+Introduction to Folium and Map Styles<br>
+Maps with Markers<br>
+Choropleth Maps<br>
+Lab: Advanced Visualization Tools<br>
+Lab: Creating Maps and Visualizing Geospatial Data<br>
+Quiz: Advanced Visualization Tools<br>
+Quiz: Visualizing Geospatial Data<br>
+Peer-review Assignment<br>
