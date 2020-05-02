@@ -5,7 +5,7 @@
 ![IBM](http://i.imgur.com/Qktqnu1.png) INSTRUCTORS
 #### Instructors: Joseph Santarcangelo
 
-Week 1 - Introduction to Data Visualization Tools<br><br>
+<strong>Week 1 - Introduction to Data Visualization Tools:<br></strong>
 Introduction to Data Visualization<br>
 Introduction to Matplotlib<br>
 Basic Plotting with Matplotlib<br>
@@ -13,7 +13,7 @@ Dataset on Immigration to Canada<br>
 Line Plots<br>
 Lab: Introduction to Matplotlib and Line Plots<br>
 Quiz: Introduction to Data Visualization Tools<br><br><br>
-Week 2 - Basic and Specialized Visualization Tools<br><br>
+<strong>Week 2 - Basic and Specialized Visualization Tools:<br></strong>
 Area Plots<br>
 Histograms<br>
 Bar Charts<br>
@@ -25,7 +25,7 @@ Lab: Basic Visualization Tools<br>
 Lab: Specialized Visualization Tools<br>
 Quiz: Basic Visualization Tools<br>
 Quiz: Specialized Visualization Tools<br><br><br>
-Week 3 - Advanced Visualizations and Geospatial Data<br><br>
+<strong>Week 3 - Advanced Visualizations and Geospatial Data:<br></strong>
 Waffle Charts<br>
 Word Clouds<br>
 Seaborn and Regression Plots<br>
