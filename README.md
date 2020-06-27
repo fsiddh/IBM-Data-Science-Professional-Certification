@@ -25,6 +25,6 @@ The courses enlisted in this specialization are as follows:
 
 - [x] __Data Visualization with Python__
 
-- [ ] __Machine Learning with Python__
+- [x] __Machine Learning with Python__
 
 - [ ] __Applied Data Science Capstone__
