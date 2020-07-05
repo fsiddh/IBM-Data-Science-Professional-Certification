@@ -15,7 +15,7 @@ The courses enlisted in this specialization are as follows:
 
 - [x] __Open Source tools for Data Science__
 
-- [x] __Data Science Methodology__ <br>(Will soon update it's content. As I audited it, there's no content available from my side, soon I'll complete it again and upload it's content for you guys. Untill then feel free to use the rest of the material as much as you like)
+- [x] __Data Science Methodology__ 
 
 - [x] __Python for Data Science and AI__
 
